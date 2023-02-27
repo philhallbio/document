@@ -13,7 +13,7 @@ gem "minima", "~> 2.0"
 
 gem "github-pages", group: :jekyll_plugins
 
-gem "just-the-docs", "~> 0.3.3"
+gem "just-the-docs", "~> 0.4.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
